@@ -46,7 +46,9 @@ JWT_SECRET=your_jwt_secret_key
 
 # Folder Structure
 An overview of the project directory structure:
+
 zoom-clone/
+
 ├── backend/         # Express server (Node.js)
 │   ├── controllers/ # Route handlers and business logic
 │   ├── models/      # Database schemas/models
@@ -54,6 +56,7 @@ zoom-clone/
 │   ├── utils/       # Utility modules (e.g., middleware, helpers)
 │   ├── index.js     # Server entry point
 │   └── ...
+
 ├── frontend/        # React client application
 │   ├── public/      # Static files (HTML, images, etc.)
 │   ├── src/         # React source code
