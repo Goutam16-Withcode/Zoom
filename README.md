@@ -9,10 +9,14 @@ Zoom Clone is a full-stack video conferencing application built with modern web 
 6.Easy Meeting Setup: Quickly create a new meeting or join an existing one with minimal steps.
 # Tech Stack
 The project is split into frontend and backend components, using the following technologies:
+
 Frontend: React.js (UI), Redux (state management), Tailwind CSS (styling), React Router (navigation).
+
 Backend: Node.js, Express.js (REST API and signaling server), Socket.IO (real-time communication), WebRTC (peer-to-peer video/audio streaming).
+
 Database: MongoDB (or another database of your choice) for storing user and meeting data.
 Authentication: JWT (JSON Web Tokens) or sessions for secure login.
+
 Development: npm or yarn for package management, ESLint/Prettier for code quality.
 
 # Setup Instructions
